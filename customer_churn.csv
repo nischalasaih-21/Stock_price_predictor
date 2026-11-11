@@ -1,0 +1,32 @@
+
+customerID,tenure,MonthlyCharges,Contract,InternetService,TechSupport,PaperlessBilling,Churn
+C001,2,95,Month-to-month,Fiber optic,No,Yes,Yes
+C002,60,65,Two year,DSL,Yes,No,No
+C003,5,89,Month-to-month,Fiber optic,No,Yes,Yes
+C004,48,55,One year,DSL,Yes,No,No
+C005,3,100,Month-to-month,Fiber optic,No,Yes,Yes
+C006,72,45,Two year,DSL,Yes,No,No
+C007,8,85,Month-to-month,Fiber optic,No,Yes,Yes
+C008,36,60,One year,DSL,Yes,No,No
+C009,1,105,Month-to-month,Fiber optic,No,Yes,Yes
+C010,65,50,Two year,DSL,Yes,No,No
+C011,4,92,Month-to-month,Fiber optic,No,Yes,Yes
+C012,54,58,One year,DSL,Yes,No,No
+C013,6,99,Month-to-month,Fiber optic,No,Yes,Yes
+C014,70,48,Two year,DSL,Yes,No,No
+C015,10,88,Month-to-month,Fiber optic,No,Yes,Yes
+C016,42,62,One year,DSL,Yes,No,No
+C017,2,102,Month-to-month,Fiber optic,No,Yes,Yes
+C018,68,52,Two year,DSL,Yes,No,No
+C019,7,90,Month-to-month,Fiber optic,No,Yes,Yes
+C020,50,59,One year,DSL,Yes,No,No
+C021,12,80,Month-to-month,DSL,No,Yes,Yes
+C022,58,67,Two year,Fiber optic,Yes,No,No
+C023,9,97,Month-to-month,Fiber optic,No,Yes,Yes
+C024,46,57,One year,DSL,Yes,No,No
+C025,15,75,Month-to-month,DSL,No,Yes,Yes
+C026,62,64,Two year,DSL,Yes,No,No
+C027,5,94,Month-to-month,Fiber optic,No,Yes,Yes
+C028,40,61,One year,DSL,Yes,No,No
+C029,18,82,Month-to-month,Fiber optic,No,Yes,Yes
+C030,66,49,Two year,DSL,Yes,No,No
